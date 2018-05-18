@@ -1,0 +1,28 @@
+{
+    "shop_items":[
+        {
+            "itemID": "01",
+            "name": "Deco de pseudo 1",
+            "desc": "Deco de pseudo",
+            "price": "25"
+        },
+        {
+            "itemID": "01",
+            "name": "Deco de pseudo 2",
+            "desc": "Deco de pseudo",
+            "price": "50"
+        },
+        {
+            "itemID": "01",
+            "name": "Deco de pseudo 3",
+            "desc": "Deco de pseudo",
+            "price": "75"
+        },
+        {
+            "itemID": "01",
+            "name": "Deco de pseudo 4",
+            "desc": "Deco de pseudo",
+            "price": "100"
+        }
+    ]
+}
